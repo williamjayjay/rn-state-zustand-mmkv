@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "nome": "Tênis Esportivo 1",
+    "descricao": "Tênis leve e confortável para atividades físicas.",
+    "preco": 199.99,
+    "imagem": "https://img.freepik.com/fotos-premium/par-de-tenis-esportivo-vista-superior-rede-neural-gerada-d-render-ilustracao-digital_124507-11426.jpg"
+  },
+  {
+    "id": "2",
+    "nome": "Camiseta Casual 2",
+    "descricao": "Camiseta de algodão 100% para uso diário.",
+    "preco": 49.99,
+    "imagem": "https://img.freepik.com/fotos-premium/uma-camisa-laranja-com-uma-etiqueta-preta-que-diz-t-camisa_129404-12461.jpg?w=740"
+  },
+  {
+    "id": "3",
+    "nome": "Relógio Digital 3",
+    "descricao": "Relógio resistente à água com funções avançadas.",
+    "preco": 299.99,
+    "imagem": "https://img.freepik.com/vetores-gratis/relogio-inteligente-imagem-realista-preto_1284-11873.jpg?size=626&ext=jpg&ga=GA1.1.1147277045.1721174391&semt=ais_hybrid"
+  },
+  {
+    "id": "4",
+    "nome": "Mochila de Viagem 4",
+    "descricao": "Mochila espaçosa e resistente para aventuras.",
+    "preco": 159.99,
+    "imagem": "https://img.freepik.com/fotos-premium/mochila-hipster-com-mapa-e-caminhadas-caminhadas-vara-caminhadas-no-conceito-de-montanhas_118925-1586.jpg?ga=GA1.1.1147277045.1721174391&semt=ais_hybrid"
+  },
+  {
+    "id": "5",
+    "nome": "Fones de Ouvido 5 Bluetooth ",
+    "descricao": "Fones sem fio com som de alta qualidade.",
+    "preco": 149.99,
+    "imagem": "https://img.freepik.com/fotos-premium/fones-de-ouvido-bluetooth-em-fundo-branco_1115207-5727.jpg?ga=GA1.1.1147277045.1721174391&semt=ais_hybrid"
+  },
+  {
+    "id": "6",
+    "nome": "Óculos de Sol 6",
+    "descricao": "Óculos de sol com proteção UV.",
+    "preco": 89.99,
+    "imagem": "https://img.freepik.com/psd-gratuitas/oculos-de-sol-vermelhos-com-lentes-pretas_220664-2387.jpg?ga=GA1.1.1147277045.1721174391&semt=ais_hybrid"
+  },
+  {
+    "id": "7",
+    "nome": "Câmera Fotográfica 7",
+    "descricao": "Câmera DSLR com lente intercambiável.",
+    "preco": 999.99,
+    "imagem": "https://img.freepik.com/fotos-gratis/vista-frontal-da-mao-segurando-a-camera_23-2148775854.jpg?ga=GA1.1.1147277045.1721174391&semt=ais_hybrid"
+  },
+  {
+    "id": "8",
+    "nome": "Camiseta Casual 8",
+    "descricao": "Camiseta de algodão 100% para uso diário.",
+    "preco": 49.99,
+    "imagem": "https://img.freepik.com/fotos-premium/uma-camisa-laranja-com-uma-etiqueta-preta-que-diz-t-camisa_129404-12461.jpg?w=740"
+  },
+  {
+    "id": "9",
+    "nome": "Relógio Digital 9",
+    "descricao": "Relógio resistente à água com funções avançadas.",
+    "preco": 299.99,
+    "imagem": "https://img.freepik.com/vetores-gratis/relogio-inteligente-imagem-realista-preto_1284-11873.jpg?size=626&ext=jpg&ga=GA1.1.1147277045.1721174391&semt=ais_hybrid"
+  },
+  {
+    "id": "10",
+    "nome": "Mochila de Viagem 10",
+    "descricao": "Mochila espaçosa e resistente para aventuras.",
+    "preco": 159.99,
+    "imagem": "https://img.freepik.com/fotos-premium/mochila-hipster-com-mapa-e-caminhadas-caminhadas-vara-caminhadas-no-conceito-de-montanhas_118925-1586.jpg?ga=GA1.1.1147277045.1721174391&semt=ais_hybrid"
+  },
+  {
+    "id": "11",
+    "nome": "Fones de Ouvido 11 Bluetooth",
+    "descricao": "Fones sem fio com som de alta qualidade.",
+    "preco": 149.99,
+    "imagem": "https://img.freepik.com/fotos-premium/fones-de-ouvido-bluetooth-em-fundo-branco_1115207-5727.jpg?ga=GA1.1.1147277045.1721174391&semt=ais_hybrid"
+  },
+  {
+    "id": "12",
+    "nome": "Óculos de Sol 12",
+    "descricao": "Óculos de sol com proteção UV.",
+    "preco": 89.99,
+    "imagem": "https://img.freepik.com/psd-gratuitas/oculos-de-sol-vermelhos-com-lentes-pretas_220664-2387.jpg?ga=GA1.1.1147277045.1721174391&semt=ais_hybrid"
+  },
+  {
+    "id": "13",
+    "nome": "Câmera Fotográfica 13",
+    "descricao": "Câmera DSLR com lente intercambiável.",
+    "preco": 999.99,
+    "imagem": "https://img.freepik.com/fotos-gratis/vista-frontal-da-mao-segurando-a-camera_23-2148775854.jpg?ga=GA1.1.1147277045.1721174391&semt=ais_hybrid"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "rn-state-zustand-mmkv",
+    "slug": "rn-state-zustand-mmkv",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "plugins": [],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.willrpg.rnstatezustandmmkv"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.willrpg.rnstatezustandmmkv"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

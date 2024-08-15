@@ -1,0 +1,18 @@
+{
+    "primary": {
+        "100":"#451952",
+        "500": "#311D3F"
+    },
+    "secondary":{
+        "100":"#EB3678"
+    },
+    "signal": {
+        "success": "#1FAD66",
+        "warning": "#EB5A52"
+    },
+    "base": {
+        "light": "#F0F5F9"
+    }
+   
+}
+
